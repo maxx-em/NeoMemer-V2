@@ -1,0 +1,7 @@
+{
+  "name": "AzzuraCore",
+  "description": "The Azzura.rblx Systems Bot.",
+  "repository": "",
+  "logo": "https://i.imgur.com/JFxgbWH.png",
+  "keywords": ["discord", "discordjs", "typescript"]
+}
